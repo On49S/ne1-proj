@@ -1,0 +1,6 @@
+mpiutil.c:57:11:mpi_alloc_limb_space	16	static
+mpiutil.c:30:5:mpi_alloc	48	static
+mpiutil.c:67:6:mpi_free_limb_space	16	static
+mpiutil.c:109:6:mpi_free	32	static
+mpiutil.c:75:6:mpi_assign_limb_space	48	static
+mpiutil.c:86:5:mpi_resize	48	static

@@ -1,0 +1,16 @@
+gf128mul.c:145:6:gf128mul_x_ble	0	static
+gf128mul.c:360:6:gf128mul_64k_lle	0	static
+gf128mul.c:373:6:gf128mul_64k_bbe	0	static
+gf128mul.c:125:13:gf128mul_x_lle	0	static
+gf128mul.c:156:13:gf128mul_x8_lle	0	static
+gf128mul.c:176:6:gf128mul_lle	208	static
+gf128mul.c:446:6:gf128mul_4k_lle	96	static
+gf128mul.c:135:13:gf128mul_x_bbe	0	static
+gf128mul.c:166:13:gf128mul_x8_bbe	0	static
+gf128mul.c:214:6:gf128mul_bbe	208	static
+gf128mul.c:461:6:gf128mul_4k_bbe	96	static
+gf128mul.c:402:21:gf128mul_init_4k_lle	48	static
+gf128mul.c:424:21:gf128mul_init_4k_bbe	48	static
+gf128mul.c:350:6:gf128mul_free_64k	32	static
+gf128mul.c:266:22:gf128mul_init_64k_lle	64	static
+gf128mul.c:308:22:gf128mul_init_64k_bbe	64	static

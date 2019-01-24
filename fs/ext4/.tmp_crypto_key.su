@@ -1,0 +1,6 @@
+crypto_key.c:20:13:derive_crypt_complete	16	static
+crypto_key.c:39:12:ext4_derive_key_aes	208	static
+crypto_key.c:86:6:ext4_free_crypt_info	32	static
+crypto_key.c:95:6:ext4_free_encryption_info	16	static
+crypto_key.c:112:5:ext4_get_encryption_info	224	static
+crypto_key.c:261:5:ext4_has_encryption_key	0	static

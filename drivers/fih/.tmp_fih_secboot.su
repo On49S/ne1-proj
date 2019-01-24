@@ -1,0 +1,10 @@
+fih_secboot.c:156:20:fih_secboot_exit	32	static
+fih_secboot.c:119:12:secboot_serialno_proc_open	16	static
+fih_secboot.c:93:12:secboot_tampered_proc_open	16	static
+fih_secboot.c:69:12:secboot_unlocked_proc_open	16	static
+fih_secboot.c:45:12:secboot_enabled_proc_open	16	static
+fih_secboot.c:106:12:proc_read_serialno_state	16	static
+fih_secboot.c:82:12:proc_read_tampered_state	48	static
+fih_secboot.c:58:12:proc_read_unlocked_state	32	static
+fih_secboot.c:34:12:proc_read_enabled_state	32	static
+fih_secboot.c:144:19:fih_secboot_init	48	static

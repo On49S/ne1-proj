@@ -1,0 +1,3 @@
+timecounter.c:21:6:timecounter_init	48	static
+timecounter.c:62:5:timecounter_read	32	static
+timecounter.c:75:5:timecounter_cyc2time	0	static

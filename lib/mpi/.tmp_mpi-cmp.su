@@ -1,0 +1,2 @@
+mpi-cmp.c:44:5:mpi_cmp	32	static
+mpi-cmp.c:23:5:mpi_cmp_ui	48	static

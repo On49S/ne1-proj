@@ -1,0 +1,11 @@
+xts.c:33:12:setkey	48	static
+xts.c:169:5:xts_crypt	256	static
+xts.c:93:12:crypt	96	static
+xts.c:158:12:decrypt	176	static
+xts.c:147:12:encrypt	176	static
+xts.c:355:20:crypto_module_exit	16	static
+xts.c:337:13:free	32	static
+xts.c:280:13:exit_tfm	32	static
+xts.c:241:12:init_tfm	32	static
+xts.c:350:19:crypto_module_init	16	static
+xts.c:287:32:alloc	32	static

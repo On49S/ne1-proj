@@ -1,0 +1,9 @@
+NVTtouch_206_fw_update.c:97:6:update_firmware_release	32	static
+NVTtouch_206_fw_update.c:113:9:Check_FW_Ver	96	static
+NVTtouch_206_fw_update.c:180:9:Check_CheckSum	192	static
+NVTtouch_206_fw_update.c:296:9:Init_BootLoader	128	static
+NVTtouch_206_fw_update.c:340:9:Erase_Flash	192	static
+NVTtouch_206_fw_update.c:482:9:Write_Flash	208	static
+NVTtouch_206_fw_update.c:686:9:Verify_Flash	192	static
+NVTtouch_206_fw_update.c:791:9:Update_Firmware	32	static
+NVTtouch_206_fw_update.c:834:6:Boot_Update_Firmware	64	static

@@ -1,0 +1,3 @@
+symlink.c:107:14:ext4_follow_fast_link	0	static
+symlink.c:27:14:ext4_follow_link	128	static
+symlink.c:93:13:ext4_put_link	16	static

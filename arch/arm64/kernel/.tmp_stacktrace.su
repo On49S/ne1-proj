@@ -1,0 +1,5 @@
+stacktrace.c:116:12:save_trace	48	static
+stacktrace.c:40:13:unwind_frame	0	static
+stacktrace.c:94:14:walk_stackframe	48	static
+stacktrace.c:134:6:save_stack_trace_tsk	80	static
+stacktrace.c:164:6:save_stack_trace	16	static

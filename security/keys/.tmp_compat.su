@@ -1,0 +1,2 @@
+compat.c:27:13:compat_keyctl_instantiate_key_iov	208	static
+compat.c:68:1:compat_SyS_keyctl	16	static

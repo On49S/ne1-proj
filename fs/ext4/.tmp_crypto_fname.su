@@ -1,0 +1,13 @@
+crypto_fname.c:203:12:digest_encode	0	static
+crypto_fname.c:35:13:ext4_dir_crypt_complete	16	static
+crypto_fname.c:58:12:ext4_fname_encrypt	256	static
+crypto_fname.c:138:12:ext4_fname_decrypt	208	static
+crypto_fname.c:252:5:ext4_fname_crypto_round_up	0	static
+crypto_fname.c:257:10:ext4_fname_encrypted_size	0	static
+crypto_fname.c:275:5:ext4_fname_crypto_alloc_buffer	32	static
+crypto_fname.c:296:6:ext4_fname_crypto_free_buffer	32	static
+crypto_fname.c:307:5:_ext4_fname_disk_to_usr	64	static
+crypto_fname.c:348:5:ext4_fname_disk_to_usr	64	static
+crypto_fname.c:363:5:ext4_fname_usr_to_disk	16	static
+crypto_fname.c:390:5:ext4_fname_setup_filename	112	static
+crypto_fname.c:459:6:ext4_fname_free_filename	32	static

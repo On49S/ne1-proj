@@ -1,0 +1,5 @@
+xt_CONNSECMARK.c:137:20:connsecmark_tg_exit	16	static
+xt_CONNSECMARK.c:116:13:connsecmark_tg_destroy	16	static
+xt_CONNSECMARK.c:87:12:connsecmark_tg_check	48	static
+xt_CONNSECMARK.c:132:19:connsecmark_tg_init	16	static
+xt_CONNSECMARK.c:67:1:connsecmark_tg	16	static

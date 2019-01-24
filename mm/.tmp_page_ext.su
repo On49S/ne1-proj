@@ -1,0 +1,3 @@
+page_ext.c:175:18:lookup_page_ext	0	static
+page_ext.c:355:13:page_ext_init	80	static
+page_ext.c:399:16:pgdat_page_ext_init	0	static

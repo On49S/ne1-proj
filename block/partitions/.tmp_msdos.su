@@ -1,0 +1,8 @@
+msdos.c:215:13:parse_solaris_x86	0	static
+msdos.c:326:13:parse_freebsd	0	static
+msdos.c:334:13:parse_netbsd	0	static
+msdos.c:342:13:parse_openbsd	0	static
+msdos.c:355:13:parse_unixware	0	static
+msdos.c:399:13:parse_minix	0	static
+msdos.c:120:13:parse_extended	192	static
+msdos.c:451:5:msdos_partition	208	static

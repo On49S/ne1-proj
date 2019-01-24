@@ -1,0 +1,6 @@
+mtk_trace.c:141:19:boot_trace_cmdline	16	static
+mtk_trace.c:333:19:hotplug_events_init	16	static
+mtk_trace.c:311:1:hotplug_event_notify	64	static
+mtk_trace.c:259:19:boot_ftrace	48	static
+mtk_trace.c:150:6:boot_ftrace_check	16	static
+mtk_trace.c:168:6:print_enabled_events	192	static

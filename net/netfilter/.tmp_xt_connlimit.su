@@ -1,0 +1,9 @@
+xt_connlimit.c:471:20:connlimit_mt_exit	32	static
+xt_connlimit.c:187:13:tree_nodes_free	64	static
+xt_connlimit.c:395:13:destroy_tree	64	static
+xt_connlimit.c:414:13:connlimit_mt_destroy	32	static
+xt_connlimit.c:359:12:connlimit_mt_check	64	static
+xt_connlimit.c:440:19:connlimit_mt_init	48	static
+xt_connlimit.c:134:21:check_hlist.constprop	112	static
+xt_connlimit.c:201:1:count_tree.constprop	240	static
+xt_connlimit.c:317:1:connlimit_mt	160	static

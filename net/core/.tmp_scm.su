@@ -1,0 +1,5 @@
+scm.c:118:6:__scm_destroy	32	static
+scm.c:133:5:__scm_send	112	static
+scm.c:216:5:put_cmsg	112	static
+scm.c:255:6:scm_detach_fds	128	static
+scm.c:332:21:scm_fp_dup	32	static

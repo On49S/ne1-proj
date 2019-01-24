@@ -1,0 +1,6 @@
+efi.c:113:1:force_gpt_fn	0	static
+efi.c:148:12:last_lba	0	static
+efi.c:251:15:read_lba	112	static
+efi.c:351:12:is_gpt_valid	80	static
+efi.c:597:12:find_valid_gpt	176	static
+efi.c:692:5:efi_partition	272	static

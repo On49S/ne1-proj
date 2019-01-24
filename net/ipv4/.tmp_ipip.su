@@ -1,0 +1,16 @@
+ipip.c:446:15:ipip_get_size	0	static
+ipip.c:580:20:ipip_fini	32	static
+ipip.c:539:24:ipip_exit_net	48	static
+ipip.c:534:23:ipip_init_net	16	static
+ipip.c:129:12:ipip_err	80	static
+ipip.c:211:12:ipip_rcv	64	static
+ipip.c:472:12:ipip_fill_info	80	static
+ipip.c:372:13:ipip_netlink_encap_parms	0	static
+ipip.c:337:13:ipip_netlink_parms	0	static
+ipip.c:423:12:ipip_changelink	128	static
+ipip.c:405:12:ipip_newlink	128	static
+ipip.c:308:13:ipip_tunnel_setup	16	static
+ipip.c:265:1:ipip_tunnel_ioctl	128	static
+ipip.c:240:20:ipip_tunnel_xmit	32	static
+ipip.c:324:12:ipip_tunnel_init	16	static
+ipip.c:552:19:ipip_init	48	static

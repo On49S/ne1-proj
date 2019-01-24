@@ -1,0 +1,11 @@
+coredump.c:500:12:umh_pipe_setup	80	static
+coredump.c:443:13:dump_interrupted	32	static
+coredump.c:280:12:zap_process	80	static
+coredump.c:62:12:expand_corename	48	static
+coredump.c:77:12:cn_vprintf	144	static
+coredump.c:112:12:cn_esc_printf	176	static
+coredump.c:100:12:cn_printf	160	static
+coredump.c:825:5:dump_emit	112	static
+coredump.c:865:5:dump_skip	48	static
+coredump.c:888:5:dump_align	16	static
+coredump.c:563:6:do_coredump	336	static

@@ -1,0 +1,17 @@
+mmu.c:53:10:phys_mem_access_prot	48	static
+mmu.c:266:14:late_alloc	16	static
+mmu.c:64:21:early_alloc	48	static
+mmu.c:112:6:split_pud	0	static
+mmu.c:248:14:__create_mapping.isra.11	160	static
+mmu.c:276:19:create_mapping	32	static
+mmu.c:296:13:create_mapping_late	32	static
+mmu.c:288:13:create_pgd_mapping	16	static
+mmu.c:408:13:fixup_executable	16	static
+mmu.c:432:6:mark_rodata_ro	16	static
+mmu.c:440:6:fixup_init	16	static
+mmu.c:496:13:paging_init	112	static
+mmu.c:515:5:kern_addr_valid	16	static
+mmu.c:556:15:vmemmap_populate	96	static
+mmu.c:591:6:vmemmap_free	0	static
+mmu.c:631:13:early_fixmap_init	48	static
+mmu.c:668:6:__set_fixmap	16	static

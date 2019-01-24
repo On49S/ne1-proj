@@ -1,0 +1,13 @@
+zen-iosched.c:46:1:zen_merged_requests	0	static
+zen-iosched.c:64:13:zen_add_request	0	static
+zen-iosched.c:280:20:zen_exit	16	static
+zen-iosched.c:245:1:zen_async_expire_store	32	static
+zen-iosched.c:224:1:zen_async_expire_show	32	static
+zen-iosched.c:162:12:zen_init_queue	48	static
+zen-iosched.c:275:19:zen_init	16	static
+zen-iosched.c:191:13:zen_exit_queue	16	static
+zen-iosched.c:225:1:zen_fifo_batch_show	16	static
+zen-iosched.c:246:1:zen_fifo_batch_store	32	static
+zen-iosched.c:223:1:zen_sync_expire_show	32	static
+zen-iosched.c:244:1:zen_sync_expire_store	32	static
+zen-iosched.c:140:12:zen_dispatch_requests	32	static

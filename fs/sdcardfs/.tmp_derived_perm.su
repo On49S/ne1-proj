@@ -1,0 +1,11 @@
+derived_perm.c:38:6:setup_derived_state	0	static
+derived_perm.c:54:6:get_derived_permission_new	96	static
+derived_perm.c:144:6:get_derived_permission	16	static
+derived_perm.c:284:13:__fixup_perms_recursive	64	static
+derived_perm.c:162:6:fixup_lower_ownership	208	static
+derived_perm.c:323:6:fixup_perms_recursive	16	static
+derived_perm.c:329:13:update_derived_permission_lock	32	static
+derived_perm.c:351:5:need_graft_path	64	static
+derived_perm.c:372:5:is_obbpath_invalid	96	static
+derived_perm.c:415:5:is_base_obbpath	48	static
+derived_perm.c:442:5:setup_obb_dentry	80	static

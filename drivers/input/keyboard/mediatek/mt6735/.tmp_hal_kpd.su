@@ -1,0 +1,13 @@
+hal_kpd.c:77:6:sb_kpd_enable	16	static
+hal_kpd.c:82:6:sb_kpd_disable	16	static
+hal_kpd.c:102:6:kpd_get_keymap_state	16	static
+hal_kpd.c:163:6:kpd_auto_test_for_factorymode	160	static
+hal_kpd.c:199:6:long_press_reboot_function_setting	32	static
+hal_kpd.c:251:6:kpd_wakeup_src_setting	32	static
+hal_kpd.c:285:6:kpd_init_keymap	0	static
+hal_kpd.c:297:6:kpd_init_keymap_state	16	static
+hal_kpd.c:309:6:kpd_set_debounce	0	static
+hal_kpd.c:315:6:kpd_pmic_rstkey_hal	48	static
+hal_kpd.c:329:6:kpd_pmic_pwrkey_hal	48	static
+hal_kpd.c:346:6:kpd_pwrkey_handler_hal	0	static
+hal_kpd.c:367:6:mt_eint_register	0	static

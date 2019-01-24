@@ -1,0 +1,2 @@
+nlmsgtab.c:134:12:nlmsg_perm	0	static
+nlmsgtab.c:148:5:selinux_nlmsg_lookup	16	static

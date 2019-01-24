@@ -1,0 +1,17 @@
+xfrm6_policy.c:74:12:xfrm6_get_tos	0	static
+xfrm6_policy.c:79:13:xfrm6_init_dst	0	static
+xfrm6_policy.c:86:12:xfrm6_init_path	0	static
+xfrm6_policy.c:132:1:_decode_session6	80	static
+xfrm6_policy.c:223:19:xfrm6_garbage_collect	32	static
+xfrm6_policy.c:231:13:xfrm6_update_pmtu	16	static
+xfrm6_policy.c:240:13:xfrm6_redirect	16	static
+xfrm6_policy.c:369:24:xfrm6_net_sysctl_exit	16	static
+xfrm6_policy.c:409:24:xfrm6_net_exit	32	static
+xfrm6_policy.c:100:12:xfrm6_fill_dst	48	static
+xfrm6_policy.c:249:13:xfrm6_dst_destroy	48	static
+xfrm6_policy.c:29:26:xfrm6_dst_lookup	112	static
+xfrm6_policy.c:55:12:xfrm6_get_saddr	48	static
+xfrm6_policy.c:392:23:xfrm6_net_init	48	static
+xfrm6_policy.c:263:13:xfrm6_dst_ifdown	64	static
+xfrm6_policy.c:420:12:xfrm6_init	48	static
+xfrm6_policy.c:445:6:xfrm6_fini	32	static

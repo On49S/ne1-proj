@@ -1,0 +1,16 @@
+mtdchar.c:1162:12:mtdchar_mmap	0	static
+mtdchar.c:1208:23:mtd_inodefs_mount	16	static
+mtdchar.c:143:12:mtdchar_close	48	static
+mtdchar.c:69:12:mtdchar_open	64	static
+mtdchar.c:419:12:mtdchar_writeoob	144	static
+mtdchar.c:468:12:mtdchar_readoob	160	static
+mtdchar.c:384:13:mtdchar_erase_callback	16	static
+mtdchar.c:389:12:otp_select_filemode	64	static
+mtdchar.c:647:12:mtdchar_ioctl	400	static
+mtdchar.c:1077:13:mtdchar_compat_ioctl	112	static
+mtdchar.c:1055:13:mtdchar_unlocked_ioctl	48	static
+mtdchar.c:268:16:mtdchar_write	208	static
+mtdchar.c:182:16:mtdchar_read	208	static
+mtdchar.c:59:15:mtdchar_lseek	16	static
+mtdchar.c:1221:12:init_mtdchar	48	static
+mtdchar.c:1247:13:cleanup_mtdchar	16	static

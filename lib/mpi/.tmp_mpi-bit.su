@@ -1,0 +1,2 @@
+mpi-bit.c:30:6:mpi_normalize	0	static
+mpi-bit.c:39:10:mpi_get_nbits	32	static

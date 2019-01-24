@@ -1,0 +1,15 @@
+mt_soc_machine.c:124:12:mtmachine_startup	0	static
+mt_soc_machine.c:130:12:mtmachine_prepare	0	static
+mt_soc_machine.c:141:12:mtmachine_startupmedia2	0	static
+mt_soc_machine.c:147:12:mtmachine_preparemedia2	0	static
+mt_soc_machine.c:1218:20:mt_soc_snd_exit	16	static
+mt_soc_machine.c:1153:12:mt6735_set_lowjitter	32	static
+mt_soc_machine.c:1146:12:mt6735_get_lowjitter	32	static
+mt_soc_machine.c:1177:19:mt_soc_snd_init	64	static
+mt_soc_machine.c:176:16:mt_soc_ana_debug_read	4208	dynamic,bounded
+mt_soc_machine.c:776:16:mt_soc_debug_write	384	static
+mt_soc_machine.c:416:16:mt_soc_debug_read	4208	dynamic,bounded
+mt_soc_machine.c:170:12:mt_soc_ana_debug_open	16	static
+mt_soc_machine.c:410:12:mt_soc_debug_open	16	static
+mt_soc_machine.c:164:12:mt_soc_audio_init2	16	static
+mt_soc_machine.c:158:12:mt_soc_audio_init	16	static

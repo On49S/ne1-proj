@@ -1,0 +1,12 @@
+page_owner.c:228:13:need_page_owner	0	static
+page_owner.c:216:12:early_page_owner_param	16	static
+page_owner.c:546:19:pageowner_init	32	static
+page_owner.c:152:1:read_page_owner_slim	112	static
+page_owner.c:396:1:read_page_owner	240	static
+page_owner.c:46:17:alloc_entry	32	static
+page_owner.c:98:6:release_backtrace	64	static
+page_owner.c:111:17:record_backtrace	80	static
+page_owner.c:260:6:__reset_page_owner	48	static
+page_owner.c:278:6:__set_page_owner	144	static
+page_owner.c:236:13:init_page_owner	128	static
+page_owner.c:313:7:__get_page_owner_gfp	16	static

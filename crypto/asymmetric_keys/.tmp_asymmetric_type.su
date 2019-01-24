@@ -1,0 +1,17 @@
+asymmetric_type.c:35:27:asymmetric_key_generate_id	64	static
+asymmetric_type.c:222:13:asymmetric_key_match_free	16	static
+asymmetric_type.c:230:13:asymmetric_key_describe	48	static
+asymmetric_type.c:324:13:asymmetric_key_destroy	48	static
+asymmetric_type.c:301:13:asymmetric_key_free_preparse	48	static
+asymmetric_type.c:269:12:asymmetric_key_preparse	80	static
+asymmetric_type.c:359:5:register_asymmetric_key_parser	64	static
+asymmetric_type.c:390:6:unregister_asymmetric_key_parser	32	static
+asymmetric_type.c:408:20:asymmetric_key_cleanup	16	static
+asymmetric_type.c:403:19:asymmetric_key_init	16	static
+asymmetric_type.c:57:6:asymmetric_key_id_same	16	static
+asymmetric_type.c:73:6:asymmetric_key_id_partial	16	static
+asymmetric_type.c:160:13:asymmetric_key_cmp_partial	32	static
+asymmetric_type.c:147:13:asymmetric_key_cmp	32	static
+asymmetric_type.c:108:12:__asymmetric_key_hex_to_key_id	16	static
+asymmetric_type.c:120:27:asymmetric_key_hex_to_key_id	64	static
+asymmetric_type.c:183:12:asymmetric_key_match_preparse	32	static

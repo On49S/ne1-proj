@@ -1,0 +1,11 @@
+linear.c:371:19:linear_init	16	static
+linear.c:63:12:linear_mergeable_bvec	64	static
+linear.c:121:17:linear_size	64	static
+linear.c:136:28:linear_conf	80	static
+linear.c:232:12:linear_add	32	static
+linear.c:352:13:linear_status	16	static
+linear.c:267:12:linear_stop	32	static
+linear.c:206:12:linear_run	48	static
+linear.c:289:13:linear_make_request	160	static
+linear.c:376:13:linear_exit	16	static
+linear.c:100:12:linear_congested	64	static

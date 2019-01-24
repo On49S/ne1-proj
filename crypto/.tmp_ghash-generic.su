@@ -1,0 +1,7 @@
+ghash-generic.c:165:20:ghash_mod_exit	16	static
+ghash-generic.c:134:13:ghash_exit_tfm	16	static
+ghash-generic.c:44:12:ghash_setkey	32	static
+ghash-generic.c:119:12:ghash_final	48	static
+ghash-generic.c:63:12:ghash_update	64	static
+ghash-generic.c:35:12:ghash_init	0	static
+ghash-generic.c:160:19:ghash_mod_init	16	static

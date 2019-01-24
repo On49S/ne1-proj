@@ -1,0 +1,9 @@
+proc_tty.c:128:12:tty_drivers_open	16	static
+proc_tty.c:27:13:show_tty_range	48	static
+proc_tty.c:68:12:show_tty_driver	64	static
+proc_tty.c:111:14:t_next	16	static
+proc_tty.c:116:13:t_stop	16	static
+proc_tty.c:105:14:t_start	32	static
+proc_tty.c:144:6:proc_tty_register_driver	32	static
+proc_tty.c:160:6:proc_tty_unregister_driver	32	static
+proc_tty.c:176:13:proc_tty_init	16	static

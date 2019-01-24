@@ -1,0 +1,11 @@
+cts.c:57:12:crypto_cts_setkey	32	static
+cts.c:344:20:crypto_cts_module_exit	16	static
+cts.c:326:13:crypto_cts_free	32	static
+cts.c:159:12:cts_cbc_decrypt	240	dynamic
+cts.c:220:12:crypto_cts_decrypt	112	static
+cts.c:73:12:cts_cbc_encrypt	240	dynamic
+cts.c:125:12:crypto_cts_encrypt	112	static
+cts.c:268:13:crypto_cts_exit_tfm	16	static
+cts.c:253:12:crypto_cts_init_tfm	32	static
+cts.c:339:19:crypto_cts_module_init	16	static
+cts.c:274:32:crypto_cts_alloc	32	static

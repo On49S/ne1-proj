@@ -1,0 +1,8 @@
+tcp_bic.c:70:13:bictcp_init	0	static
+tcp_bic.c:161:12:bictcp_recalc_ssthresh	0	static
+tcp_bic.c:183:12:bictcp_undo_cwnd	0	static
+tcp_bic.c:141:13:bictcp_cong_avoid	16	static
+tcp_bic.c:191:13:bictcp_state	0	static
+tcp_bic.c:200:13:bictcp_acked	0	static
+tcp_bic.c:223:19:bictcp_register	16	static
+tcp_bic.c:229:20:bictcp_unregister	16	static

@@ -1,0 +1,8 @@
+tcp_htcp.c:67:12:htcp_cwnd_undo	0	static
+tcp_htcp.c:307:20:htcp_unregister	16	static
+tcp_htcp.c:222:12:htcp_recalc_ssthresh	64	static
+tcp_htcp.c:101:13:measure_achieved_throughput	80	static
+tcp_htcp.c:231:13:htcp_cong_avoid	16	static
+tcp_htcp.c:257:13:htcp_init	0	static
+tcp_htcp.c:300:19:htcp_register	16	static
+tcp_htcp.c:268:13:htcp_state	0	static

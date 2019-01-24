@@ -1,0 +1,4 @@
+readpage.c:54:13:completion_pages	80	static
+readpage.c:149:1:ext4_submit_bio_read	368	static
+readpage.c:113:13:mpage_end_io	64	static
+readpage.c:172:5:ext4_mpage_readpages	288	static

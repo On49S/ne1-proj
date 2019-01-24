@@ -1,0 +1,4 @@
+crypto_policy.c:98:5:ext4_process_policy	128	static
+crypto_policy.c:124:5:ext4_get_policy	80	static
+crypto_policy.c:144:5:ext4_is_child_context_consistent_with_parent	144	static
+crypto_policy.c:225:5:ext4_inherit_context	96	static

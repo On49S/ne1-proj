@@ -1,0 +1,11 @@
+async.c:85:23:lowest_in_progress	32	static
+async.c:113:13:async_run_entry_fn	64	static
+async.c:152:23:__async_schedule	80	static
+async.c:211:16:async_schedule	16	static
+async.c:229:16:async_schedule_domain	16	static
+async.c:256:6:async_unregister_domain	32	static
+async.c:287:6:async_synchronize_cookie_domain	112	static
+async.c:272:6:async_synchronize_full_domain	16	static
+async.c:241:6:async_synchronize_full	16	static
+async.c:316:6:async_synchronize_cookie	16	static
+async.c:327:6:current_is_async	32	static

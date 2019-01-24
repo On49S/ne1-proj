@@ -1,0 +1,15 @@
+mt_soc_pcm_uldlloopback.c:197:12:mtk_uldlloopback_pcm_copy	0	static
+mt_soc_pcm_uldlloopback.c:311:12:mtk_uldlloopback_pcm_hw_params	0	static
+mt_soc_pcm_uldlloopback.c:216:21:mtk_uldlloopback_page	16	static
+mt_soc_pcm_uldlloopback.c:408:19:mtk_soc_uldlloopback_platform_init	16	static
+mt_soc_pcm_uldlloopback.c:378:12:mtk_afe_uldlloopback_remove	32	static
+mt_soc_pcm_uldlloopback.c:345:12:mtk_uldlloopback_probe	48	static
+mt_soc_pcm_uldlloopback.c:320:12:mtk_uldlloopback_pcm_hw_free	16	static
+mt_soc_pcm_uldlloopback.c:432:20:mtk_soc_uldlloopback_platform_exit	16	static
+mt_soc_pcm_uldlloopback.c:237:12:mtk_uldlloopback_pcm_prepare	48	static
+mt_soc_pcm_uldlloopback.c:205:12:mtk_uldlloopback_silence	16	static
+mt_soc_pcm_uldlloopback.c:182:12:mtk_uldlloopbackpcm_trigger	16	static
+mt_soc_pcm_uldlloopback.c:361:12:mtk_asoc_uldlloopbackpcm_new	16	static
+mt_soc_pcm_uldlloopback.c:371:12:mtk_afe_uldlloopback_probe	16	static
+mt_soc_pcm_uldlloopback.c:136:12:mtk_uldlloopbackpcm_close	32	static
+mt_soc_pcm_uldlloopback.c:95:12:mtk_uldlloopback_open	48	static

@@ -1,0 +1,2 @@
+system_keyring.c:30:19:system_trusted_keyring_init	16	static
+system_keyring.c:55:19:load_system_certificate_list	80	static

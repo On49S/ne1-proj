@@ -1,0 +1,2 @@
+failslab.c:28:19:setup_failslab	16	static
+failslab.c:14:6:should_failslab	16	static

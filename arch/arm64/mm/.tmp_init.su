@@ -1,0 +1,9 @@
+init.c:393:19:keepinitrd_setup	0	static
+init.c:52:19:early_initrd	48	static
+init.c:74:27:max_zone_dma_phys	32	static
+init.c:165:5:pfn_valid	16	static
+init.c:187:13:arm64_memblock_init	48	static
+init.c:215:13:bootmem_init	160	static
+init.c:307:13:mem_init	224	static
+init.c:376:6:free_initmem	16	static
+init.c:387:6:free_initrd_mem	16	static

@@ -1,0 +1,14 @@
+powersuspend.c:51:6:register_power_suspend	32	static
+powersuspend.c:65:6:unregister_power_suspend	32	static
+powersuspend.c:106:13:power_resume	48	static
+powersuspend.c:73:13:power_suspend	48	static
+powersuspend.c:309:20:power_suspend_exit	32	static
+powersuspend.c:247:16:power_suspend_version_show	16	static
+powersuspend.c:217:16:power_suspend_mode_show	16	static
+powersuspend.c:186:16:power_suspend_state_show	16	static
+powersuspend.c:223:16:power_suspend_mode_store	64	static
+powersuspend.c:274:19:power_suspend_init	32	static
+powersuspend.c:139:6:set_power_suspend_state	48	static
+powersuspend.c:160:6:set_power_suspend_state_autosleep_hook	16	static
+powersuspend.c:172:6:set_power_suspend_state_panel_hook	16	static
+powersuspend.c:192:16:power_suspend_state_store	48	static

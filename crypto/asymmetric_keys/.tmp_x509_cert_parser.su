@@ -1,0 +1,17 @@
+x509_cert_parser.c:43:6:x509_free_certificate	32	static
+x509_cert_parser.c:62:26:x509_cert_parse	64	static
+x509_cert_parser.c:514:12:x509_note_time.isra.0	16	static
+x509_cert_parser.c:274:12:x509_fabricate_name.isra.1	80	static
+x509_cert_parser.c:121:5:x509_note_OID	128	static
+x509_cert_parser.c:141:5:x509_note_tbs_certificate	48	static
+x509_cert_parser.c:158:5:x509_note_pkey_algo	32	static
+x509_cert_parser.c:210:5:x509_note_signature	48	static
+x509_cert_parser.c:232:5:x509_note_serial	0	static
+x509_cert_parser.c:245:5:x509_extract_name_segment	0	static
+x509_cert_parser.c:349:5:x509_note_issuer	16	static
+x509_cert_parser.c:359:5:x509_note_subject	16	static
+x509_cert_parser.c:372:5:x509_extract_key_data	0	static
+x509_cert_parser.c:394:5:rsa_extract_mpi	32	static
+x509_cert_parser.c:420:5:x509_process_extension	64	static
+x509_cert_parser.c:559:5:x509_note_not_before	16	static
+x509_cert_parser.c:567:5:x509_note_not_after	16	static

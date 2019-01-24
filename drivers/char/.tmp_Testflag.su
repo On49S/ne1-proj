@@ -1,0 +1,15 @@
+Testflag.c:24:5:write_ef	64	static
+Testflag.c:72:5:read_ef	64	static
+Testflag.c:123:5:fih_read_pid	1728	static
+Testflag.c:160:5:fih_write_pid	1728	static
+Testflag.c:201:5:fih_read_CAVIS	1744	static
+Testflag.c:252:5:fih_write_CAVIS	1728	static
+Testflag.c:293:5:fih_read_ps_thd	1728	static
+Testflag.c:320:5:fih_write_ps_thd	1728	static
+Testflag.c:355:5:fih_read_als_slope	1728	static
+Testflag.c:382:5:fih_write_als_slope	1744	static
+Testflag.c:417:5:fih_read_tp_rawdata_range	1728	static
+Testflag.c:443:5:fih_write_tp_rawdata_range	1728	static
+Testflag.c:479:5:fih_read_gsensor_cali	1728	static
+Testflag.c:504:5:fih_write_gsensor_cali	1728	static
+Testflag.c:540:5:fih_read_skuid	1712	static

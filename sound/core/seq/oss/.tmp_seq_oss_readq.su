@@ -1,0 +1,13 @@
+seq_oss_readq.c:46:1:snd_seq_oss_readq_new	48	static
+seq_oss_readq.c:76:1:snd_seq_oss_readq_delete	32	static
+seq_oss_readq.c:88:1:snd_seq_oss_readq_clear	32	static
+seq_oss_readq.c:138:5:snd_seq_oss_readq_sysex	64	static
+seq_oss_readq.c:156:1:snd_seq_oss_readq_put_event	64	static
+seq_oss_readq.c:104:1:snd_seq_oss_readq_puts	80	static
+seq_oss_readq.c:131:12:readq_dump_sysex	16	static
+seq_oss_readq.c:185:1:snd_seq_oss_readq_pick	0	static
+seq_oss_readq.c:197:1:snd_seq_oss_readq_wait	96	static
+seq_oss_readq.c:209:1:snd_seq_oss_readq_free	0	static
+seq_oss_readq.c:222:1:snd_seq_oss_readq_poll	32	static
+seq_oss_readq.c:232:1:snd_seq_oss_readq_put_timestamp	64	static
+seq_oss_readq.c:260:1:snd_seq_oss_readq_info_read	16	static

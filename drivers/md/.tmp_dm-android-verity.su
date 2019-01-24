@@ -1,0 +1,14 @@
+dm-android-verity.c:70:19:verified_boot_state_param	16	static
+dm-android-verity.c:78:19:verity_mode_param	16	static
+dm-android-verity.c:86:19:verity_keyid_param	16	static
+dm-android-verity.c:94:19:verity_buildvariant	16	static
+dm-android-verity.c:103:19:platform_securityfused_state_param	16	static
+dm-android-verity.c:979:20:dm_android_verity_exit	16	static
+dm-android-verity.c:217:12:read_block_dev	64	static
+dm-android-verity.c:938:19:dm_android_verity_init	48	static
+dm-android-verity.c:655:12:add_as_linear_device	64	static
+dm-android-verity.c:564:13:find_dt_value	32	static
+dm-android-verity.c:578:12:verity_mode	32	static
+dm-android-verity.c:636:13:handle_error	16	static
+dm-android-verity.c:683:12:create_linear_device	64	static
+dm-android-verity.c:713:12:android_verity_ctr	720	static

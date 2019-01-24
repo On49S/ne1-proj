@@ -1,0 +1,4 @@
+mrdump_control.c:200:13:mrdump_stop_noncore_cpu	16	static
+mrdump_control.c:149:6:mrdump_cblock_init	48	static
+mrdump_control.c:192:12:mrdump_init	16	static
+mrdump_control.c:224:6:__mrdump_create_oops_dump	80	static

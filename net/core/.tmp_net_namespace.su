@@ -1,0 +1,17 @@
+net_namespace.c:125:13:ops_exit_list	48	static
+net_namespace.c:191:23:net_defaults_init_net	0	static
+net_namespace.c:384:13:get_net_ns_by_pid	64	static
+net_namespace.c:411:24:net_ns_net_exit	16	static
+net_namespace.c:406:23:net_ns_net_init	16	static
+net_namespace.c:41:28:net_alloc_generic	32	static
+net_namespace.c:137:13:ops_free_list.part.0	48	static
+net_namespace.c:90:12:ops_init.constprop	64	static
+net_namespace.c:518:12:register_pernet_operations.isra.2	48	static
+net_namespace.c:573:5:register_pernet_subsys	32	static
+net_namespace.c:201:19:net_defaults_init	16	static
+net_namespace.c:421:19:net_ns_init	112	static
+net_namespace.c:619:5:register_pernet_device	48	static
+net_namespace.c:545:13:unregister_pernet_operations	80	static
+net_namespace.c:592:6:unregister_pernet_subsys	32	static
+net_namespace.c:640:6:unregister_pernet_device	32	static
+net_namespace.c:378:13:get_net_ns_by_fd	0	static

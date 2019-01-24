@@ -1,0 +1,17 @@
+emmc_rpmb.c:1678:12:emmc_rpmb_close	16	static
+emmc_rpmb.c:267:12:emmc_rpmb_send_command	464	static
+emmc_rpmb.c:1700:19:emmc_rpmb_init	96	static
+emmc_rpmb.c:1460:12:emmc_rpmb_open	16	static
+emmc_rpmb.c:127:5:hmac_sha256	80	static
+emmc_rpmb.c:204:5:emmc_rpmb_switch	48	static
+emmc_rpmb.c:337:5:emmc_rpmb_req_start	64	static
+emmc_rpmb.c:394:5:emmc_rpmb_req_handle	48	static
+emmc_rpmb.c:1015:5:ut_rpmb_req_get_wc	688	static
+emmc_rpmb.c:1058:5:ut_rpmb_req_read_data	112	static
+emmc_rpmb.c:1075:5:ut_rpmb_req_write_data	112	static
+emmc_rpmb.c:448:5:emmc_rpmb_req_set_key	144	static
+emmc_rpmb.c:487:5:emmc_rpmb_req_get_wc	208	static
+emmc_rpmb.c:557:5:emmc_rpmb_req_write_data	272	static
+emmc_rpmb.c:793:5:emmc_rpmb_req_read_data	288	static
+emmc_rpmb.c:1473:13:emmc_rpmb_ioctl	160	static
+emmc_rpmb.c:1009:5:ut_rpmb_req_get_max_wr_size	0	static

@@ -1,0 +1,13 @@
+led-triggers.c:70:9:led_trigger_show	112	static
+led-triggers.c:103:6:led_trigger_set	96	static
+led-triggers.c:144:6:led_trigger_remove	32	static
+led-triggers.c:33:9:led_trigger_store	144	static
+led-triggers.c:152:6:led_trigger_set_default	64	static
+led-triggers.c:220:6:led_trigger_unregister	64	static
+led-triggers.c:324:6:led_trigger_unregister_simple	32	static
+led-triggers.c:246:6:led_trigger_event	48	static
+led-triggers.c:291:6:led_trigger_blink_oneshot	64	static
+led-triggers.c:185:5:led_trigger_register	64	static
+led-triggers.c:300:6:led_trigger_register_simple	64	static
+led-triggers.c:170:6:led_trigger_rename_static	48	static
+led-triggers.c:283:6:led_trigger_blink	64	static

@@ -1,0 +1,13 @@
+esp4.c:681:12:esp4_rcv_cb	0	static
+esp4.c:108:13:esp_output_done	48	static
+esp4.c:38:14:esp_alloc_tmp	16	static
+esp4.c:277:12:esp_input_done2	112	static
+esp4.c:373:12:esp_input	144	static
+esp4.c:361:13:esp_input_done	32	static
+esp4.c:511:13:esp_destroy	16	static
+esp4.c:480:12:esp4_err	48	static
+esp4.c:721:20:esp4_fini	32	static
+esp4.c:458:12:esp4_get_mtu	16	static
+esp4.c:116:12:esp_output	192	static
+esp4.c:635:12:esp_init_state	176	static
+esp4.c:707:19:esp4_init	32	static

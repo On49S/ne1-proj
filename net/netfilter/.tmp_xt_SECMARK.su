@@ -1,0 +1,5 @@
+xt_SECMARK.c:141:20:secmark_tg_exit	16	static
+xt_SECMARK.c:117:13:secmark_tg_destroy	16	static
+xt_SECMARK.c:82:12:secmark_tg_check	48	static
+xt_SECMARK.c:136:19:secmark_tg_init	16	static
+xt_SECMARK.c:33:1:secmark_tg	16	static

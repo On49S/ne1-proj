@@ -1,0 +1,4 @@
+public_key.c:61:6:public_key_destroy	32	static
+public_key.c:77:5:public_key_verify_signature	32	static
+public_key.c:111:12:public_key_verify_signature_2	16	static
+public_key.c:48:13:public_key_describe	16	static

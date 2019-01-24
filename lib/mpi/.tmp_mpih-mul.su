@@ -1,0 +1,7 @@
+mpih-mul.c:68:1:mul_n_basecase	64	static
+mpih-mul.c:108:1:mul_n	128	static
+mpih-mul.c:220:6:mpih_sqr_n_basecase	64	static
+mpih-mul.c:258:1:mpih_sqr_n	112	static
+mpih-mul.c:406:6:mpihelp_release_karatsuba_ctx	32	static
+mpih-mul.c:440:1:mpihelp_mul	144	static
+mpih-mul.c:334:1:mpihelp_mul_karatsuba_case	96	static

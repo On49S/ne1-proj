@@ -1,0 +1,4 @@
+do_mounts_md.c:253:19:raid_setup	112	static
+do_mounts_md.c:63:19:md_setup	112	static
+do_mounts_md.c:126:20:md_setup_drive	512	static
+do_mounts_md.c:303:13:md_run_setup	48	static

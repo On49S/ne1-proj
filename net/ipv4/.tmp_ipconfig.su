@@ -1,0 +1,14 @@
+ipconfig.c:1326:12:pnp_seq_open	16	static
+ipconfig.c:1301:12:pnp_seq_show	48	static
+ipconfig.c:192:20:ic_is_init_dev	16	static
+ipconfig.c:299:20:ic_close_devs	48	static
+ipconfig.c:1562:19:ic_proto_name	32	static
+ipconfig.c:877:19:ic_bootp_string	48	static
+ipconfig.c:953:19:ic_bootp_recv	112	static
+ipconfig.c:1597:19:ip_auto_config_setup	80	static
+ipconfig.c:1690:19:nfsaddrs_config_setup	16	static
+ipconfig.c:1696:19:vendor_class_identifier_setup	32	static
+ipconfig.c:407:19:ic_setup_routes	176	static
+ipconfig.c:330:19:ic_devinet_ioctl.constprop	32	static
+ipconfig.c:1345:15:root_nfs_parse_addr	48	static
+ipconfig.c:1403:19:ip_auto_config	256	static

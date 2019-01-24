@@ -1,0 +1,8 @@
+act_ipt.c:306:20:ipt_cleanup_module	32	static
+act_ipt.c:33:12:ipt_init_target	240	static
+act_ipt.c:62:13:ipt_destroy_target	80	static
+act_ipt.c:73:13:tcf_ipt_release	32	static
+act_ipt.c:88:12:tcf_ipt_init	160	static
+act_ipt.c:223:12:tcf_ipt_dump	144	static
+act_ipt.c:175:12:tcf_ipt	128	static
+act_ipt.c:289:19:ipt_init_module	32	static

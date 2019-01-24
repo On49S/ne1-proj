@@ -1,0 +1,6 @@
+compat_ioctl.c:14:12:compat_put_ushort	0	static
+compat_ioctl.c:19:12:compat_put_int	0	static
+compat_ioctl.c:24:12:compat_put_uint	0	static
+compat_ioctl.c:186:12:compat_blkpg_ioctl	48	static
+compat_ioctl.c:147:12:compat_cdrom_generic_command	64	static
+compat_ioctl.c:657:6:compat_blkdev_ioctl	144	static

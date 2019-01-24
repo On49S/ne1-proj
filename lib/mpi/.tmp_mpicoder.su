@@ -1,0 +1,4 @@
+mpicoder.c:80:5:mpi_read_from_buffer	80	static
+mpicoder.c:32:5:mpi_read_raw_data	48	static
+mpicoder.c:138:7:mpi_get_buffer	32	static
+mpicoder.c:189:5:mpi_set_buffer	64	static
